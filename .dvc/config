@@ -1,4 +1,4 @@
 [core]
     remote = storage
 ['remote "storage"']
-    url = s3://sai-dart-ljbryan/dvc-demo
+    url = s3://sai-dart-lbryan/dvc-demo
